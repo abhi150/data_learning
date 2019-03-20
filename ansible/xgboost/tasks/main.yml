@@ -1,0 +1,6 @@
+---
+- name: update debian packages
+  apt: update_cache=true
+
+- name: install Java JDK
+  apt: name=openjdk-7-jdk state=present

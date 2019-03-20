@@ -1,0 +1,6 @@
+---
+- name: update debian packages
+  apt: update_cache=true
+
+- name: install memcached
+  apt: name=memcached state=present
