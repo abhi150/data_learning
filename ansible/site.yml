@@ -4,5 +4,5 @@
   sudo: true
   roles:
   - randomforest
-  - xgboost
+
 
