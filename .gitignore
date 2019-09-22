@@ -1,0 +1,4 @@
+venv/
+used_data_set/
+*.log
+.idea/workspace.xml
