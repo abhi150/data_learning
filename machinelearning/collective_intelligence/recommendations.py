@@ -12,7 +12,7 @@ critics = {
         'The Night Listener': 3.0,
     },
     'Gene Seymour': {
-        'Lady in the Water': 3.0,
+        'Lady in the Water': 3
         'Snakes on a Plane': 3.5,
         'Just My Luck': 1.5,
         'Superman Returns': 5.0,
